@@ -38,7 +38,7 @@
 * [The Neural Perspective](https://theneuralperspective.com/)
 * [Colah's Blog](http://colah.github.io/)
 * [Distill ](https://distill.pub)
-
+* [FastML ](http://fastml.com/)
 
 
 ## Inspiring Answers For FAQ
@@ -52,6 +52,7 @@
 * [Siraj Raval](http://www.youtube.com/c/sirajraval)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Lumiverse](http://lumiverse.io)
+* [sentdex](https://www.youtube.com/user/sentdex)
 
 ## Environments To Play
 * [Kaggle](https://www.kaggle.com)
